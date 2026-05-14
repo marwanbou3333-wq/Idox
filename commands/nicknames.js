@@ -1,6 +1,6 @@
 module.exports = {
   name: 'nicknames',
   execute(msg) {
-    msg.reply('قائمة الأسماء: ...');
+    msg.reply('قائمة الأسماء المماليزة');
   }
 };
